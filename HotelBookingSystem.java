@@ -1,3 +1,9 @@
+/*
+ * For detailed explanations, system design breakdown, and the UML diagram,
+ * check out my medium article at: https://medium.com/@techiecontent/day-9-design-a-hotel-booking-system-java-code-3bcb81e089c2
+ *
+/
+
 import java.util.*;
 import java.time.*;
 

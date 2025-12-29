@@ -1,3 +1,11 @@
+
+/*
+ * For detailed explanations, system design breakdown, and the UML diagram,
+ * check out my medium article at: https://medium.com/@techiecontent/day-8-design-a-movie-ticket-booking-system-java-code-b1d2ee202e64
+ *
+/
+
+
 import java.util.*;
 import java.time.LocalDateTime;
 

@@ -1,3 +1,9 @@
+/*
+ * For detailed explanations, system design breakdown, and the UML diagram,
+ * check out my medium article at: https://medium.com/@techiecontent/day-10-design-a-splitwise-like-expense-sharing-app-af2336da0fdc?sk=e5d5484df1a921c512f89d69c3e4bdac
+ *
+/
+
 import java.util.*;
 import java.time.*;
 

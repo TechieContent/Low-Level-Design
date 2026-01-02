@@ -1,3 +1,9 @@
+/*
+ * For detailed explanations, system design breakdown, and the UML diagram,
+ * check out my medium article at: https://medium.com/@techiecontent/day-11-design-a-ride-sharing-app-like-uber-704e9e4f6cf4?sk=34e1b856b4c094511d503011c4789c5c
+ *
+/
+
 import java.util.*;
 import java.time.*;
 

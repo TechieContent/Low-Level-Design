@@ -18,6 +18,7 @@ The repo currently covers (with links to Medium articles in the code comments):
 3. Hotel Booking System
 4. Splitwise-like Expense Sharing App
 5. Ride Sharing App (Uber/Lyft style)
+   
 (More coming soon!)
 
 **For each, simply:**

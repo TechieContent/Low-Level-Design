@@ -1,3 +1,9 @@
+/*
+ * For detailed explanations, system design breakdown, and the UML diagram,
+ * check out my medium article at: https://medium.com/@techiecontent/day-12-design-a-food-ordering-app-like-swiggy-zomato-java-code-5ef97f8441c7?sk=d343bd4229f7a069a0db2dbefacb7fd2
+ *
+/
+ 
 import java.util.*;
 import java.time.*;
 

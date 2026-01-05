@@ -1,3 +1,9 @@
+/*
+ * For detailed explanations, system design breakdown, and the UML diagram,
+ * check out my medium article at: https://medium.com/@techiecontent/day-13-design-a-meeting-scheduler-java-cod-35e3c7055a08?sk=6d50d9256a90ddea18eb138081de3419
+ *
+/
+
 import java.util.*;
 import java.time.*;
 

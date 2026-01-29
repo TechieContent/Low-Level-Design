@@ -1,3 +1,9 @@
+/*
+ * For detailed explanations, system design breakdown, and the UML diagram,
+ * check out my medium article at: https://medium.com/@techiecontent/day-26-lld-design-elevator-system-java-code-bd748fc55d09
+ *
+/
+
 import java.util.*;
 
 enum Direction { UP, DOWN, NONE }

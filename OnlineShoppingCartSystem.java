@@ -1,3 +1,9 @@
+/*
+ * For detailed explanations, system design breakdown, and the UML diagram,
+ * check out my medium article at: https://medium.com/@techiecontent/day-27-lld-design-online-shopping-cart-java-code-7a5693e99b26?postPublishedType=repub
+ *
+ /
+ 
 import java.util.*;
 
 // -- Product --

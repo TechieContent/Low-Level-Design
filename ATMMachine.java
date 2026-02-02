@@ -1,3 +1,8 @@
+/*
+ * For detailed explanations, system design breakdown, and the UML diagram,
+ * check out my medium article at: https://medium.com/@techiecontent/e20d16df47b4?postPublishedType=initial
+ *
+/
 import java.util.*;
 
 // ----- Entities -----
